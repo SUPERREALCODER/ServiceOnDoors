@@ -1,0 +1,7 @@
+{
+  "name": "ServiceOnDoor - Automation-First Service Platform",
+  "description": "A high-conversion, app-like service booking platform for home appliances featuring AI-powered booking assistants, automated technician dispatch, and real-time feedback loops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
